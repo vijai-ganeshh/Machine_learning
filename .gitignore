@@ -1,0 +1,7 @@
+# Ignore virtual environment and temporary files
+venv/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
